@@ -1,0 +1,4 @@
+/* تعديلات للتطبيق: مناطق آمنة (النوتش / شريط الإيماءات) */
+html{-webkit-tap-highlight-color:transparent;-webkit-touch-callout:none}
+body{padding-top:env(safe-area-inset-top);padding-bottom:env(safe-area-inset-bottom);-webkit-user-select:none;user-select:none}
+input,select,textarea{-webkit-user-select:text;user-select:text}

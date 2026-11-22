@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527658441562",
+    "project_id": "el-rabea",
+    "storage_bucket": "el-rabea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527658441562:android:1815f17925107fc4b63163",
+        "android_client_info": {
+          "package_name": "com.mycompany.elrabea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1efkb4FpM8oMERCAmnXqG1EHYoOnQZZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

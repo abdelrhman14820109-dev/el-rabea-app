@@ -1,0 +1,14 @@
+{
+  "appId": "com.mycompany.elrabea",
+  "appName": "مركز الربيع",
+  "webDir": "www",
+  "backgroundColor": "#0879d5",
+  "plugins": {
+    "FirebaseMessaging": {
+      "presentationOptions": ["badge", "sound", "alert"]
+    },
+    "LocalNotifications": {
+      "iconColor": "#0879d5"
+    }
+  }
+}
